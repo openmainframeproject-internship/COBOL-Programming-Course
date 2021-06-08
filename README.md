@@ -17,5 +17,4 @@ a better understanding of the problems you encountered during the developmemnt o
 - *Hartanto Ario Widjaya* - *University* - Mentee
 - *Sudharsana Srinivasan* - *IBM* - Mentor
 - *Ahmed Eid* - *University* - Mentee
-- *Misty Decker* - *Micro Focus* - Mentor
 
