@@ -1,11 +1,3 @@
 # Source Code Folder
-To be structured as needed by project team.
 
-Please document here
-| Subdirectory Name | Description |
-|---|---|
-| | |
-| | |
-| | |
-| | |
-| | |
+Code is submitted to the [COBOL Programming Course repository](https://github.com/openmainframeproject/cobol-programming-course) through pull requests.
