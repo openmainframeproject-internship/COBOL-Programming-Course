@@ -1,6 +1,6 @@
 <p align=center> COBOL Programming Course <br>
   STATUS REPORT <br>
-  DATE
+  May 28 2021
 
   ##
 
