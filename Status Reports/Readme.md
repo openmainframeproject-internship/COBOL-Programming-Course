@@ -5,12 +5,12 @@ Status Report Template: [Template.md](https://github.com/openmainframeproject-in
 
 | Document | Description | Document Name |
 |---|---|---|
-| Project Plan | Overall week by week plan of milestones | [Project_Plan.md](https://github.com/openmainframeproject-internship/COBOL-Programming-Course/blob/master/Status%20Reports/Project_Plan.md) |
-| Week 1 Status Report | |[28 May 2021 - Status report.md](https://github.com/openmainframeproject-internship/COBOL-Programming-Course/blob/master/Status%20Reports/28%20May%202021%20-%20Status%20report.md) | 
-| Week 2 Status Report | | |
-| Week 3 Status Report | | |
-| Week 4 Status Report | | |
-| Week 5 Status Report | | |
+| Project Plan | Overall week by week plan of milestones | [Project_Plan.md](Project_Plan.md) |
+| Week 1 Status Report | |[May 28 2021 - Status report](May%2028%202021%20-%20Status%20report.md) | 
+| Week 2 Status Report | |[June 8 2021 - Status report](June%208%202021%20-%20Status%20report.md) |
+| Week 3 Status Report | | [June 15 2021 - Status report](June%2015%202021%20-%20Status%20report.md)|
+| Week 4 Status Report | | [June 22 2021 - Status report](June%2022%202021%20-%20Status%20report.md)|
+| Week 5 Status Report | | [June 29 2021 - Status report](June%2029%202021%20-%20Status%20report.md)|
 | Week 6 Status Report | | |
 | Week 7 Status Report | | |
 | Week 8 Status Report | | |
@@ -26,3 +26,4 @@ Status Report Template: [Template.md](https://github.com/openmainframeproject-in
 | Week 18 Status Report | | |
 | Week 19 Status Report | | |
 | Week 20 Status Report | | |
+[]()
