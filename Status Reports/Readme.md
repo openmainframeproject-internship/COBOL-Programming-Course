@@ -13,7 +13,7 @@ Status Report Template: [Template.md](https://github.com/openmainframeproject-in
 | Week 5 Status Report | | [June 29 2021 - Status report](June%2029%202021%20-%20Status%20report.md)|
 | Week 6 Status Report | | [July 6 2021 - Status report](July%206%202021%20-%20Status%20report.md)|
 | Week 7 Status Report | | [July 13 2021 - Status report](July%2013%202021%20-%20Status%20report.md)|
-| Week 8 Status Report | | |
+| Week 8 Status Report | | [July 19 2021 - Status report](July%2019%202021%20-%20Status%20report.md)|
 | Week 9 Status Report | | |
 | Week 10 Status Report | | |
 | Week 11 Status Report | | |

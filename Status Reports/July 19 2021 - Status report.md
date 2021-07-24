@@ -1,6 +1,6 @@
 <p align=center> COBOL Programming Course <br>
   STATUS REPORT <br>
-  July 19 2021
+  July 13 2021
 
 ##
 
@@ -12,12 +12,16 @@
 
 2. Accomplishments for the week -- and which team members participated/contributed
     * Accomplishment
-    - Hartanto, and Ahmed
-        - Wrote a blog post for to be public on the Open Mainframe site
-        - Wrote a Call For Action the Open Z Day
+    - Ahmed
+        - Opened a PR for chapter on OOP
+        - Fixed some issues with the images sizes in the Updating images PR
+
+    - Hartanto
+        - Added a chapter on ABEND Handling
+        - Add section on copybooks
 
 #### TODO
-- Hartanto and Ahmed will be going through the course: Modernize applications with IBM CICS
+- Hartanto and Ahmed will be working a blog post for the Open Mainframe Project
 
 3.
 Milestone | Team Member | Date Due
