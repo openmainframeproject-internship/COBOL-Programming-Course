@@ -1,23 +1,23 @@
 <p align=center> COBOL Programming Course <br>
   STATUS REPORT <br>
-  July 19 2021
+  July 26 2021
 
 ##
 
 1. Project Members
     * Michael Bauer (Mentor)
     * Sudharsana Srinivasan (Mentor)
-    * Ahmed Eid (Mentee)
     * Hartanto Ario Widjaya (Mentee)
+    * Ahmed Eid (Mentee)
 
 2. Accomplishments for the week -- and which team members participated/contributed
-   * Accomplishment
-   - Hartanto, and Ahmed
-      - Wrote a blog post for to be public on the Open Mainframe site
-      - Wrote a Call For Action the Open Z Day
-
-#### TODO
-- Hartanto and Ahmed will be going through the course: Modernize applications with IBM CICS
+    * Accomplishment
+    - Hartanto
+      - Finished the CICS course videos
+      - Will be working on the translation ID
+    - Ahmed
+      - Finished the CICS course videos
+      - Will be working on updating the code snippets using VS code syntax highlight  
 
 
 3.
